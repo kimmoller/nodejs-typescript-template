@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-typescript-template",
+  "version": "1.0.0",
+  "description": "Node JS TypeScript template project",
+  "main": "./src/app.ts",
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "dev": "tsx src/app.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "tsx": "^3.14.0",
+    "typescript": "^5.2.2"
+  }
+}
